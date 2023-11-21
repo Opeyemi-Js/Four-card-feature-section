@@ -31,7 +31,7 @@ body {
 }
 
 .container {
-    max-width: 144rem;
+    max-width: 90rem;
     min-width: 37.5rem;
     margin: 12rem auto;
     text-align: center;
