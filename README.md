@@ -1,48 +1,48 @@
-# Frontend Mentor - Four card feature section solution
+# Frontend Mentor - Four Card Feature Section Solution
 
-This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Four Card Feature Section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges are designed to help you improve your coding skills by building realistic projects.
 
-## Table of contents
+## Table of Contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The Challenge](#the-challenge)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [My Process](#my-process)
+  - [Built With](#built-with)
+  - [What I Learned](#what-i-learned)
+  - [Continued Development](#continued-development)
+  - [Useful Resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
 
-### The challenge
+### The Challenge
 
-Users should be able to:
-
-- View the optimal layout for the site depending on their device's screen size
+The goal of this project is to enable users to view the optimal layout for the site based on their device's screen size.
 
 ### Links
 
-- Solution URL: [Go to solution page](https://your-solution-url.com)
-- Live Site URL: [Click to view live](https://your-live-site-url.com)
+- Solution URL: [View the solution](https://your-solution-url.com)
+- Live Site URL: [Click here to view live](https://your-live-site-url.com)
 
-## My process
+## My Process
 
-### Built with
+### Built With
+
+This project was built using:
 
 - Semantic HTML5 markup
 - Flexbox
 - CSS Grid
 
-### What i learnt
+### What I Learned
 
-During codung this challenge i was able to apply the basic knowledge i have of grid couple with css to achieve the four card feature for desktop/Laptop screen (Large screen).
+During the development of this challenge, I applied my basic knowledge of CSS Grid in combination with other CSS techniques to achieve the four-card feature layout for desktop and laptop screens (large screens).
 
-### Continued development
+### Continued Development
 
-I need to improve on the basic of grid, I can achieve this by doing some grid related Projects.
+To enhance my skills in CSS Grid, I plan to undertake more grid-related projects to solidify my understanding.
 
 ## Author
 
-- Twitter - [@opeyemi_Js](https://www.x.com/opeyemi_Js)
+- Twitter: [@opeyemi_Js](https://www.x.com/opeyemi_Js)
